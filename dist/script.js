@@ -17,7 +17,3 @@ hamburger.addEventListener("click", function () {
   hamburger.classList.toggle("hamburger-active");
   navmenu.classList.toggle("hidden");
 });
-
-import AOS from "aos";
-import "aos/dist/aos.css";
-AOS.init();
